@@ -1,0 +1,16 @@
+# Ignorar archivos de Office
+*.docx
+*.xlsx
+*.pptx
+
+# Ignorar carpetas temporales
+/docs/temp/
+/pruebas/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar backups
+*.bak
+*.old
